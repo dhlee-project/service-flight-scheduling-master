@@ -1,0 +1,8 @@
+/__pycache__
+/.idea
+*.xml
+*.pyc
+*.pkl
+*.csv
+!flight-scheduling.csv
+tmp.py
